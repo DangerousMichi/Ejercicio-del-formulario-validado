@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "Ejercicio7",
+			"path": "../Ejercicio7"
+		},
+		{
+			"name": "Ejercicio6",
+			"path": "../Ejercicio6"
+		},
+		{
+			"name": "Ejercicio8",
+			"path": "../Ejercicio8"
+		},
+		{
+			"name": "Ejercicio9 - wendo",
+			"path": "../Ejercicio9 - wendo"
+		},
+		{
+			"name": "Ejercicio9",
+			"path": "."
+		},
+		{
+			"name": "EJERCICIO 1",
+			"path": "../EJERCICIO 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EJERCICIO 1"
+	}
+}
